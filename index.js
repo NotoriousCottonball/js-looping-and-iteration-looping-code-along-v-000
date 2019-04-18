@@ -21,4 +21,4 @@ function printBadges(employeeNames) {
   return (`You got ${tails} tails in a row!`);
 }
 
-tailsNeverFails()
+tailsNeverFails();
